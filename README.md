@@ -1,31 +1,31 @@
-# JAVA-Completo-Programa-Orientada-a-Objeto
+# JAVA-Completo-Programa-Orientada-a-Objeto.
 
-### Lógica de programação e algoritmos
+### Lógica de programação e algoritmos;
 
-Expressões aritméticas
+Expressões aritméticas:
 
-- Variáveis e tipos básicos em Java
+- Variáveis e tipos básicos em Java;
 
-- As três operações básicas de programação
+- As três operações básicas de programação;
 
-- Saída de dados em Java
+- Saída de dados em Java;
 
-- Processamento de dados em Java, Casting
+- Processamento de dados em Java, Casting;
 
-- Entrada de dados em Java - Parte 1
+- Entrada de dados em Java - Parte 1;
 
-- Entrada de dados em Java - Parte 2
+- Entrada de dados em Java - Parte 2;
 
-- Funções matemáticas em Java
+- Funções matemáticas em Java;
 
-- Sintaxe opcional - switch-case
+- Sintaxe opcional - switch-case;
 
-- Expressão condicional ternária
+- Expressão condicional ternária;
 
-- Escopo e inicialização
+- Escopo e inicialização;
 
-- Estrutura repetitiva enquanto (while)
+- Estrutura repetitiva enquanto (while);
 
-- Teste de mesa com estrutura repetitiva enquanto
+- Teste de mesa com estrutura repetitiva enquanto;
 
-- Teste de mesa com estrutura repetitiva para
+- Teste de mesa com estrutura repetitiva para;
